@@ -1,0 +1,11 @@
+produto,categoria,preco,estoque,loja
+Camiseta,Roupas,49.9,10,Loja A
+Calça,Roupas,99.9,5,Loja B
+Tênis,Calçados,199.9,7,Loja A
+Jaqueta,Roupas,149.9,3,Loja C
+Boné,Acessórios,29.9,20,Loja A
+Meia,Acessórios,9.9,50,Loja C
+Camiseta,Roupas,59.9,8,Loja B
+Tênis,Calçados,219.9,4,Loja A
+Calça,Roupas,89.9,6,Loja C
+Boné,Acessórios,39.9,25,Loja B
