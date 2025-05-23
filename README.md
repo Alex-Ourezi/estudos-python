@@ -28,17 +28,17 @@ Cada biblioteca tem sua própria pasta, onde coloco:
 
 Exemplo de organização:
 
-📁 pandas/
-├── 01_series_intro.ipynb
-├── 02_dataframe_basico.ipynb
-├── 03_filtros_loc_iloc.ipynb
-└── README.md
+📁 pandas/  
+├── 01_series_intro.ipynb  
+├── 02_dataframe_basico.ipynb  
+├── 03_filtros_loc_iloc.ipynb  
+└── README.md  
 
-📁 numpy/
-└── .gitkeep
+📁 numpy/  
+└── .gitkeep  
 
-📁 matplotlib/
-└── .gitkeep
+📁 matplotlib/  
+└── .gitkeep  
 ---
 
 ## 🎯 Objetivo com esse repositório
